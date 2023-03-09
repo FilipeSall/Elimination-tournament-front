@@ -1,0 +1,18 @@
+:root{
+    --c1:#FFFFFA;
+    --c1-tone:#ececea;
+    --c2:#333333;
+    --c2-tone:#423d3d;
+    --c3:#FF0054;
+    --c3-tone:#e7195e;
+    --c4:#FF9C4A;
+    --c4-tone:#d46f1c;
+    --c5:#0077C2;
+    --c5-tone:#176697;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
